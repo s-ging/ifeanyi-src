@@ -82,6 +82,10 @@ export const PageHead: React.FC<
       <meta property='og:title' content={title} />
       <meta name='twitter:title' content={title} />
       <title>{title}</title>
+
+      <meta property="og:image" content="https://uploads-ssl.webflow.com/64490311e0806a7a875a1ee4/6453fe3df1f23640967e08c9_og.png">
+      <meta name="twitter:image" content="https://uploads-ssl.webflow.com/64490311e0806a7a875a1ee4/6453fe3df1f23640967e08c9_og.png">
+
       <style> @import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;600&display=swap'); </style>
     </Head>
   )
