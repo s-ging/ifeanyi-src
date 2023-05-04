@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Test',
-  domain: 'next-js-notion-phi.vercel.app',
+  name: 'Ifeanyi',
+  domain: 'ifeanyi-src.vercel.app',
   author: 'Ifeanyi',
 
   // open graph metadata (optional)
-  description: 'Next.js Notion Test',
+  description: 'Ifeanyi',
 
   // social usernames (optional)
   facebook: 'ifeanyiogbo',
